@@ -22,8 +22,12 @@ The objective of this project is to use real estate data to find the optimal hou
 9. Keeping the top 10 and plotting them on a map using Mapbox
 
 ### Results
+
+#### Combined Listing Dataframe
 <img src="images/image1.png" />
-Combined Listing Dataframe
-<img src="images/image2.png" />
-Map of the Listings. The color represents the price to rent ratio, ranging from blue being the most favorable to yellow being the least favorable.
+
+#### Map of the Listings. 
+The color represents the price to rent ratio, ranging from blue being the most favorable to yellow being the least favorable.
 The size represents the price of the house with the higher price meaning a larger circle on the map
+<img src="images/image2.png" />
+

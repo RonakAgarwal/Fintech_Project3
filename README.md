@@ -1,6 +1,4 @@
-# UNCC FinTech Bootcamp Capstone Project
-
-## Analyzing Potential Real Estate Investments
+# Analyzing Potential Real Estate Investments
 
 The objective of this project is to use real estate data to find the optimal house for potential investment. The requirements for this on a personal level are that the house has to:
 1. Be in the Charlotte Metropolitan Area
